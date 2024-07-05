@@ -1,12 +1,34 @@
-## Hi there 👋
 
-<!--
+# JL Miller Electric, Inc.
 
-**Here are some ideas to get you started:**
+![JL Miller Electric Logo](https://www.jlmillerelectric.com/static/images/jlmillerelectric-logo.jpg)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## About Us
+
+![Residential Electrical Services](https://www.jlmillerelectric.com/static/images/fixture.jpeg)
+
+JL Miller Electric, Inc. is a leading electrical contracting company based in Placentia, California. We have been providing top-notch electrical services to residential and commercial clients since 2004. Our team of highly skilled and experienced electricians is dedicated to delivering safe, efficient, and code-compliant electrical solutions tailored to our clients' unique needs.
+
+## Our Services
+
+- Residential Electrical Services: We offer a wide range of residential electrical services, including new construction wiring, remodeling, panel upgrades, lighting installations, and electrical repairs.
+
+- Commercial Electrical Services: Our commercial electrical services cover everything from tenant build-outs and office renovations to electrical system maintenance and emergency repairs for businesses of all sizes.
+
+- Renewable Energy Solutions: We specialize in the design and installation of solar photovoltaic systems, battery storage systems, and electric vehicle charging stations.
+
+## Our Commitment
+
+At JL Miller Electric, Inc., we are committed to delivering exceptional service and workmanship. We pride ourselves on our attention to detail, adherence to safety protocols, and use of high-quality materials and equipment. Our team stays up-to-date with the latest industry standards and technologies to ensure we provide our clients with cutting-edge solutions.
+
+## Get Involved
+
+We welcome collaboration and partnerships with like-minded individuals and organizations. If you're interested in working with us or have a project in mind, please don't hesitate to reach out. We're always eager to explore new opportunities and tackle exciting challenges.
+
+## Resources
+
+- Website: [www.jlmillerelectric.com](https://www.jlmillerelectric.com)
+- Blog: [www.jlmillerelectric.com/blog](https://www.jlmillerelectric.com/blog)
+- Contact Us: [www.jlmillerelectric.com/contact](https://www.jlmillerelectric.com/contact)
+
+We look forward to working with you and providing exceptional electrical solutions that exceed your expectations!
