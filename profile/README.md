@@ -1,11 +1,11 @@
 
 # JL Miller Electric, Inc.
 
-![JL Miller Electric Logo](https://www.jlmillerelectric.com/static/images/jlmillerelectric-logo.jpg)
+![JL Miller Electric Logo](https://www.jlmillerelectric.com/images/jlmillerelectric-logo.jpg)
 
 ## About Us
 
-![Residential Electrical Services](https://www.jlmillerelectric.com/static/images/fixture.jpeg)
+![About Us](https://www.jlmillerelectric.com/images/photo-1591684080176-bb2b73f9ec68.jpeg)
 
 JL Miller Electric, Inc. is a leading electrical contracting company based in Placentia, California. We have been providing top-notch electrical services to residential and commercial clients since 2004. Our team of highly skilled and experienced electricians is dedicated to delivering safe, efficient, and code-compliant electrical solutions tailored to our clients' unique needs.
 
@@ -28,7 +28,19 @@ We welcome collaboration and partnerships with like-minded individuals and organ
 ## Resources
 
 - Website: [www.jlmillerelectric.com](https://www.jlmillerelectric.com)
-- Blog: [www.jlmillerelectric.com/blog](https://www.jlmillerelectric.com/blog)
-- Contact Us: [www.jlmillerelectric.com/contact](https://www.jlmillerelectric.com/contact)
+
+- Facebook: [www.facebook.com/profile.php?id=61555699480705](https://www.facebook.com/profile.php?id=61555699480705)
+
+- LinkedIn: [www.linkedin.com/company/jlmillerelectric-inc](https://www.linkedin.com/company/jlmillerelectric-inc)
+
+- Discord: [discord.gg/wwEK8xqw](https://discord.gg/wwEK8xqw)
+
+## Contact Us
+
+If you have any questions or would like to discuss your electrical needs, please don't hesitate to contact us. We're here to help!
+
+- Email: [keith@jlmillerelectric.com](mailto:keith@jlmillerelectric.com)
+- Phone: (714) 397-0352
+- Address: 650 N. Rose Dr #113, Placentia, CA 92870
 
 We look forward to working with you and providing exceptional electrical solutions that exceed your expectations!
